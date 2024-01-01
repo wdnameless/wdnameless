@@ -1,4 +1,4 @@
-![Header](https://github.com/wdnameless/wdnameless/blob/main/assets/header.gif)
+![Header](https://github.com/wdnameless/wdnameless/blob/main/assets/github-header-image.png)
 
 About me:
 
