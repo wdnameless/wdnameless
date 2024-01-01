@@ -1,7 +1,7 @@
-Header
+![Header](https://github.com/wdnameless/wdnameless/blob/main/assets/header.gif)
 
-About me
+About me:
 
-Languages and Tools
+Languages and Tools:
 
-Social Media
+Socials:
