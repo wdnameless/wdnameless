@@ -7,8 +7,7 @@
 name: Vlad Oliinyk
 located_in: Burgas, BG
 from: Odessa, UA
-job: Mediabuying/Crypto Advising,Scouting/Video&Audio Editing,Production
-  - [Video-Editor, Tester, Analyst/Researcher in web3 few crypto startups]
+job: Mediabuying/Crypto Advising,Scouting/Video&Audio Editing,Production/Analyst,Researcher
 education: ["Incomplete Higher Education in Sys_Administration/Comp-Sci", "Countless professional development courses"]
 past experiences: 
   - ["MediaBuyer", "Ping-Partners", "Remote", Target audience understanding and creative skills, Campaign optimization and scaling, Tracker usage and postback configuration, Testing and hypothesis skills,Landing page and sales funnel optimization, "2024-present"]
