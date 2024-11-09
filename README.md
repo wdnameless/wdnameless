@@ -35,7 +35,8 @@ hobbies: ["Books", "Visual ART", "Music", "Competitive Gaming"]
 <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/></a></a
 href="https://www.notion.so/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="36" height="36"/></a><a
 href="https://trello.co"><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/trello_icon_146085.png" width="36" height="36"/></a><a
-href="[[https://developer.chrome.com/docs/devtools](https://cpalenta.ru/wp-content/uploads/2023/01/2023-01-16-20.37.23.jpg)](https://fb-killa.pro/data/avatars/h/45/45606.jpg?1657200478)"><img src="//camo.githubusercontent.com/be11ab1cf3e4b56fff12f3671a7c71132874aa3de3efb733ec167ba5c5769558/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f333862356339353361343636373336363638356435356462353564303537633836646231666335342f61306664632f7374617469632f61636165366232346439343033343736363163613930316561303766343763312f6368726f6d652d6465762d6c6f676f2d69636f6e2e706e67" width="36" height="36"/></a><p>
+href="https://keitaro.io/"><img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/trello_icon_146085.png" width="36" height="36"/></a><a
+
 
 
 ### Socials
@@ -45,7 +46,7 @@ href="[[https://developer.chrome.com/docs/devtools](https://cpalenta.ru/wp-conte
 width="32" height="32" /> </picture> </a> 
 <a href="https://www.twitch.tv/namelss666" target="_blank"> 
 <img src="https://media0.giphy.com/media/GQH0RAXoWwhqtcjbmA/giphy.gif?cid=6c09b952oawrgyjg4uyzx8p1hw02zwtvkz224mnhfomt3vbw&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="32" height="32"/> </picture> </a>  
-<a href="https://konect.gg/splayar" target="_blank" rel="noreferrer"> <picture> <img src="[https://konnekt.gr/wp-content/uploads/2023/12/cropped-icon.png](https://konect.gg/assets/apple-touch-icon.png)" width="32" height="32" /> </picture>
+<a href="https://konect.gg/splayar" target="_blank" rel="noreferrer"> <picture> <img src="https://logowik.com/content/uploads/images/konect6206.logowik.com.webp" width="32" height="32" /> </picture>
 <a href="https://t.me/shitmane" target="_blank"> 
 <img src="https://i.pinimg.com/originals/f7/66/6a/f7666a9d88c30edeba372c0306c14709.jpg" width="32" height="32"/> </picture> </a>
    
