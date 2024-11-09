@@ -5,22 +5,24 @@
 
 ```yaml
 name: Vlad Oliinyk
-located_in: Prague, CZ
+located_in: Burgas, BG
 from: Odessa, UA
-job: Full Freelance. 
+job: Mediabuying/Crypto Advising,Scouting/Video&Audio Editing,Production
   - [Video-Editor, Tester, Analyst/Researcher in web3 few crypto startups]
-education: ["Incomplete Higher Education in Sys_Administration/Comp-Sci", "Countless professional development courses", "Self-education from free sources"]
+education: ["Incomplete Higher Education in Sys_Administration/Comp-Sci", "Countless professional development courses"]
 past experiences: 
-  - ["Video-Audio Editing/QA Engineer", "UPWORK", "Fully Remote", "2022-Present"]
-  - ["Software QA Engineer", "Functionality Testing,Manual Testing,Compatibility Testing,Reporting and Defect Tracking,Collaboration with Developers", "UTEST", "2023-2024"]
+  - ["MediaBuyer", "Ping-Partners", "Remote", Target audience understanding and creative skills, Campaign optimization and scaling, Tracker usage and postback configuration, Testing and hypothesis skills,Landing page and sales funnel optimization, "2024-present"]
+  - ["Video-Audio Editing/QA Engineering/Web3 Consulting", "UPWORK", "Fully Remote",Searching/Cosnulting client, Business communication/Building Connections,Provision of services/Problem Solving, Flexibility/Continuous, Learning/Detail Attention | >
+  > Work with: Advertising agencies, BrandsMedium-sized, large private businesses, E-commerce companies "2022-2025"]
+  - ["Software QA Engineer", "Functionality Testing,Manual Testing,Compatibility Testing,Reporting and Defect Tracking,Collaboration with Developers", "Veeam", "2023-2024"]
   - ["Research analyst scout", "Project search and scouting,Tokenomics analysis,Ponzinomics/kwonzinomics detection,Scam revealing," "FIRST STAGE LABS", "Remote", "2022"] 
   - ["CameraMan/FilmEditor", "Camera Operation,Color Correction and Grading,Collaboration with Post-production Teams,Project Management", "DOVZHENKO FILM STUDIOS", "Part-Time" "2019-2021"]
   - ["Logistics Administrator", "Coordination of Shipments,Documentation Management,Order Processing,Data Analysis", "MITRIDAT
 CONTAINER TRANSPORT","Full Time", "2018-2019"]
 
 fields_of_interests: ["Web 3", "AI", "Venture capital"]
-hardskills: [Video&Audio Editing/Production, SDLC, Researching, QA Testing, Administration, Version Control, Web Technologies, Database Knowledge, API, Data Analysis, Bug Tracking Tools]
-softskills: [Critical/Analytical Thinking, Communication Skills, Adaptability, Time Management, Creativity, Agile/Scrum, Curiosity and Learning Agility, Risk Assessment]
+hardskills: [Video&Audio Editing/Production, SDLC, Researching, QA Testing, Administration, W3 Advising, Web Technologies, Database Knowledge, API, Data Analysis, Networking, Scouting, TeamBuilding]
+softskills: [Critical/Analytical Thinking, Communication Skills, Adaptability, Time Management, Creativity, Curiosity and Learning Agility, Risk Assessment]
 currently_learning: ["ISTQB standarts", "Unix system", "Computer Networking", "Databases"]
 will_learn: ["Web3(Blockchain_backend)", "Vim", "Python", "Selenium"]
 hobbies: ["Books", "Visual ART", "Music", "Competitive Gaming"]
