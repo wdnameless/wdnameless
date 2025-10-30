@@ -11,7 +11,6 @@ education: ["Incomplete Higher Education in Sys_Administration/Comp-Sci", "Count
 past experiences: 
   - ["MediaBuyer", "Ping-Partners", "Remote", Target audience understanding and creative skills, Campaign optimization and scaling, Tracker usage and postback configuration, Testing and hypothesis skills,Landing page and sales funnel optimization, "2024-present"]
   - ["Video-Audio Editing/QA Engineering/Web3 Consulting", "UPWORK", "Fully Remote",Searching/Cosnulting client, Business communication/Building Connections,Provision of services/Problem Solving, Flexibility/Continuous, Learning/Detail Attention | >
-  - [
   - ["Software QA Engineer", "Functionality Testing,Manual Testing,Compatibility Testing,Reporting and Defect Tracking,Collaboration with Developers", "Veeam", "2023-2024"]
   - ["Research analyst scout", "Project search and scouting,Tokenomics analysis,Ponzinomics/kwonzinomics detection,Scam revealing," "FIRST STAGE LABS", "Remote", "2022"] 
   - ["CameraMan/FilmEditor", "Camera Operation,Color Correction and Grading,Collaboration with Post-production Teams,Project Management", "DOVZHENKO FILM STUDIOS", "Part-Time" "2019-2021"]
